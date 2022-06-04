@@ -24,6 +24,10 @@ direccion: https://nodejs.org/es/download/.
 Debe debe descargar e instalar XAMPP en su equipo, para ello valla a la 
 direccion: https://www.apachefriends.org/es/download.html 
 
+Cree en phpMyAdmin una base de datos de nombre: pruebafrontend y cree una tabla
+dentro de esta base de datos de nombre: factura
+
+
 Abra la consola de comandos o cmd en el caso de windows y ejecute node -v, 
 si quedo instalado se mostraral la versión de nodeJS.
 

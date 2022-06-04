@@ -24,6 +24,10 @@ direccion: https://nodejs.org/es/download/.
 Debe debe descargar e instalar XAMPP en su equipo, para ello valla a la 
 direccion: https://www.apachefriends.org/es/download.html 
 
+Busque y ejecute XAMPP presionando los botones open de Apache y MySql
+
+Abra el navegador y escriba localhost.
+
 Cree en phpMyAdmin una base de datos de nombre: pruebafrontend y cree una tabla
 dentro de esta base de datos de nombre: factura
 

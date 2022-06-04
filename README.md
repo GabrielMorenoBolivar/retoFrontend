@@ -44,6 +44,9 @@ frontend y la carpera backend.
 Abra cada una de las carpetas con la consola de comandos y ejecute el 
 comando: npm run dev en cada una de ellas. 
 
+Abra el navegador y escriba la dirección que se genera al utilizar
+en comando npm run dev. Ejemplo: http://localhost:3000
+
 Se adjunta un archivo llamado "leeme.doc" con imagenes para mostrar la estructura de la base 
 creada en XAMPP y aclarando el proceso de ejecución del reto con imagenes.
 

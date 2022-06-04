@@ -9,6 +9,7 @@ IDE: Visual Studio Code
 
 Frameworks:
 - VueJs
+- Nuxt
 - Express
 
 Gestor de bases de datos: XAMPP
